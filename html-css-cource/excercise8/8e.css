@@ -1,0 +1,47 @@
+input{
+  display: block;
+  width: 400px;
+  margin-bottom: 12px;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  background-color: #dedede;
+  border: none;
+}
+
+.heading{
+  font-size: 32px;
+  font-family: arial;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+.uber-button{
+  background-color: black;
+  color: white;
+  border: none;
+  height: 45px;
+  width: 140px;
+  font-size: 15;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  margin-right: 15px;
+}
+.uber-button:hover{
+  opacity: 0.8;
+}
+
+.schedule-button{
+  background-color: rgb(201, 201, 201);
+  border: none;
+  height: 45px;
+  width: 140px;
+  font-size: 15;
+  cursor: pointer;
+  transition: backgound-color 0.15s,
+    color 0.15s;
+}
+.schedule-button:hover{
+  background-color: rgb(190, 190, 190);
+  color: rgb(10, 10, 10);
+}

@@ -1,0 +1,22 @@
+p{
+  font-family: arial;
+}
+.card{
+  height: 100px;
+  width: 360px;
+  background-color: #212121;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.intro{
+  color: #888888;
+}
+.title{
+  color: white;
+  font-size: 32;
+  font-weight: bold;
+  margin-bottom: 10px;
+}

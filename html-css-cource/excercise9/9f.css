@@ -1,0 +1,40 @@
+.card{
+  width: 150px;
+  border: none;
+  box-shadow: 0 0px 5px rgba(0,0,0,0.3)
+}
+.profile-picture{
+  width: 150px;
+  height: 140px;
+  object-fit: cover;
+}
+p{
+  font-family: arial;
+  margin: 0px;
+  margin-left: 5px;
+}
+
+.user-name{
+  font-weight: bold;
+  font-size: 18;
+  margin-bottom: 3px;
+}
+.friend-count{
+  font-size: 14px;
+  color: #575757;
+  margin-bottom: 10px;
+}
+
+button{
+  color: white;
+  background-color: rgb(0, 106, 255);
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 5px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  border-radius: 2px;
+}
